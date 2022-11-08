@@ -1,2 +1,2 @@
-# Traveling-Website
-Traveling Website based on Java, JS Html, etc. 
+# Tianditong-Online-Shopping-Website
+Tianditong Online Shopping Website based on Java, JS Html, etc. 
